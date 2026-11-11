@@ -1,10 +1,18 @@
 # GDPR Skills
 
+![GDPR Skills — copertina illustrata](assets/gdpr-hero.svg)
+
 Catalogo di 13 skill autonome per analisi documentale e normativa GDPR, con disciplina UE e italiana.
 
 **Stato:** prima versione operativa documentale, non validazione giuridica né certificazione di conformità. Ogni skill può essere invocata indipendentemente.
 
 ## Skill disponibili
+
+![Mappa delle 13 skill GDPR, organizzate in quattro aree tematiche](assets/gdpr-competencies.svg)
+
+[Apri il diagramma vettoriale SVG](assets/gdpr-competencies.svg)
+
+La mappa organizza **13 competenze autonome in quattro aree tematiche**: non rappresenta un workflow obbligatorio né una sequenza di adempimenti.
 
 | Skill | Competenza |
 | --- | --- |
